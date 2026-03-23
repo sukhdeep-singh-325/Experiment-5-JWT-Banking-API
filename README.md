@@ -1,4 +1,4 @@
-# Experiment 5: JWT-Based Authentication for Banking API
+# Experiment 6: JWT-Based Authentication for Banking API
 
 ## 🚀 Live Demo
 
